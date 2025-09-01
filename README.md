@@ -40,6 +40,28 @@ Node.js architecture (V8, libuv, event loop)
 CommonJS vs ES Modules
 
 Node.js REPL and core APIs overview
+## Tutorial...
+REPL = (Read-Eval-Print-Loop)
+This is an interactive environment built in nodeJS  where u can execute JavaScript code.
+Read -> Read input from the User
+Eval -> Evaluate the input
+Print -> Prints the result
+Loop -> Goes back to wait for more input
+
+**Navigation within REPL
+.help -> Shows all REPL command
+.exit -> Exit
+.clear -> Resets the REPL
+.load file -> Loads JS file into REPL
+.save file -> Saves the REPL session
+
+** Working on REPL features.
+-> functions
+-> underscore
+-> Variable Persistence
+
+
+
 
 Building first Node.js script (CLI tool)
 ---
